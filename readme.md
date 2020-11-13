@@ -61,8 +61,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Breakdownschets (week 1)
-
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+<img src="images/breakdownschets.1.png" width="375px" alt="homepagine Ikea">
+<img src="images/breakdownschets.2.png" width="375px" alt="homepagine Ikea">
 
 
 
