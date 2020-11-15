@@ -61,6 +61,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Breakdownschets (week 1)
+
 <img src="images/breakdownschets.png" width="375px" alt="breakdownschets">
 
 
@@ -69,9 +70,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** blauw
+**Je startniveau:** -kies uit zwart, rood óf blauw-
 
-**Je focus:** Surface plane
+**Je focus:** -kies uit responsive óf surface plane-
 
 **Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
